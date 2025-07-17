@@ -19,7 +19,7 @@ This is free, unsupported software. If you want guarantees, I'm available for hi
 Postgresql/Oracle/Db2 command:
 
 ```
-COMMENT ON COLUMN dbo.Widgets IS 'Contains a list of widgets in stock';
+COMMENT ON TABLE dbo.Widgets IS 'Contains a list of widgets in stock';
 COMMENT ON COLUMN dbo.Widgets.Name IS 'The name of the widget';
 ```
 
