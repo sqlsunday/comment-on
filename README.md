@@ -50,4 +50,4 @@ EXECUTE dbo.Comment_on_column N'dbo.Widgets.Name', 'The name of the widget';
 # Upvote my feedback item
 
 I've also created a [feedback item](https://feedback.azure.com/d365community/idea/4efda13c-1a63-f011-95f2-7c1e52f147b5).
-Please help me out with your upvote to get this feature into a future version of SQL Server:
+Please help me out with your upvote to get this feature into a future version of SQL Server.
